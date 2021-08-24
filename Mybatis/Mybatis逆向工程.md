@@ -252,8 +252,6 @@ public class MyBatisTest {
 
 **引入配置文件**,修改数据库配置信息
 
-![image-20201220120227907](C:/Users/15745/Desktop/assets/image-20201220120227907.png) 
-
 **测试代码**
 
 ~~~java
