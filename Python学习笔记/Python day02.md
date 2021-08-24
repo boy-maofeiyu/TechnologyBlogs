@@ -36,8 +36,6 @@ if 判断条件:
 > 2. 判断年龄是否满足18岁，满足输出`哥18岁了，可以进入网吧为所欲为了`
 > 3. 程序最后输出，`if 判断结束`(不管是否满足，都会输出)
 
-![image-20200927091126038](C:/Users/15745/Desktop/day02.assets/image-20200927091126038.png)
-
 ### if else 结构
 
 ```python 
@@ -54,7 +52,7 @@ else:
 if 和 else 只会执行其中的一个,    
 ```
 
-![image-20200927091944161](C:/Users/15745/Desktop/day02.assets/image-20200927091944161.png)
+
 
 
 
@@ -129,7 +127,7 @@ import random  # 导入随机数模块
 num = random.randint(a, b) 
 ```
 
-![image-20200927110323504](day02.assets/image-20200927110323504.png)
+
 
 ### 三目运算
 
